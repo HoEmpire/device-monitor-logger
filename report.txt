@@ -1,0 +1,20 @@
+2021-03-22:20.38.10 to 2021-03-22:20.39.32  Load-image-and-feature-detection        1 minute 22 second 
+2021-03-22:20.39.32 to 2021-03-22:20.41.51  Feature-matching                        2 minute 19 second 
+2021-03-22:20.41.51 to 2021-03-22:20.48.41  SfM                                     6 minute 50 second 
+2021-03-22:20.48.43 to 2021-03-22:20.52.40  Image-correction                        3 minute 57 second 
+2021-03-22:20.52.43 to 2021-03-22:21.02.23  Dense-Reconstruction                    9 minute 40 second 
+2021-03-22:21.02.23 to 2021-03-22:21.05.34  Depth-map-fusion                        3 minute 11 second 
+2021-03-22:21.05.46 to 2021-03-22:21.12.16  Point-cloud-filtering-and-saving        6 minute 30 second 
+2021-03-22:21.12.16 to 2021-03-22:22.35.09  Meshing                                 1 hour 22 minute 53 second 
+2021-03-22:22.35.09 to 2021-03-22:22.44.41  Dense-Reconstruction                    9 minute 32 second 
+2021-03-22:22.44.41 to 2021-03-22:22.47.30  Depth-map-fusion                        2 minute 49 second 
+2021-03-22:22.47.41 to 2021-03-22:22.53.52  Point-cloud-filtering-and-saving        6 minute 11 second 
+2021-03-22:22.53.52 to 2021-03-23:00.06.54  Meshing                                 1 hour 13 minute 2 second 
+2021-03-23:00.06.54 to 2021-03-23:00.16.20  Dense-Reconstruction                    9 minute 26 second 
+2021-03-23:00.16.20 to 2021-03-23:00.19.02  Depth-map-fusion                        2 minute 42 second 
+2021-03-23:00.19.13 to 2021-03-23:00.25.23  Point-cloud-filtering-and-saving        6 minute 10 second 
+2021-03-23:00.25.23 to 2021-03-23:01.37.06  Meshing                                 1 hour 11 minute 43 second 
+2021-03-23:01.37.06 to 2021-03-23:01.46.29  Dense-Reconstruction                    9 minute 23 second 
+2021-03-23:01.46.29 to 2021-03-23:01.49.08  Depth-map-fusion                        2 minute 39 second 
+2021-03-23:01.49.19 to 2021-03-23:01.55.33  Point-cloud-filtering-and-saving        6 minute 14 second 
+2021-03-23:01.55.33 to 2021-03-23:03.02.38  Meshing                                 1 hour 7 minute 5 second 
